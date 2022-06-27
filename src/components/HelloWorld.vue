@@ -1,10 +1,10 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h2>这是HelloWord显示的内容</h2>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      这里有你喜欢的<br>
+      <a href="http://www.7878mm.com/" target="_blank" rel="noopener">欢迎回家</a>.
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>

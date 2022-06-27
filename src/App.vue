@@ -2,7 +2,12 @@
   <div id="app">
     <nav>
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/about">About</router-link> |
+      <router-link to="/other">Other</router-link> |
+      <router-link to="/about">亚洲</router-link>|
+      <router-link to="/about">日韩</router-link>|
+      <router-link to="/about">偷拍/自拍</router-link>|
+      <router-link to="/about">欧美</router-link>
     </nav>
     <router-view/>
   </div>
